@@ -3,7 +3,7 @@
 # as well as show the status of the default branch as a badge.
 
 name: py3-bandit
-author: liberty young (libertyy)
+author: liberty young (libertyy), numerator survey
 description: 'Run bandit (latest) on Py3'
 branding:
   icon: 'check-square'
